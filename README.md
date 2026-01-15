@@ -1,5 +1,5 @@
 # Simple Expense Tracker
-#### Video Demo:
+#### Video Demo: https://www.youtube.com/watch?v=xF9KYE8OMDU
 
 #### Description: Starting off, a prompt appears asking users to type in how much they spent via the command line. That number they enter represents the price of a specific expense being tracked. After typing it in, the system verifies the input, rejecting any negative values or nothing at all. Without meeting that condition, a warning shows up. Quit to stop the program from proceeding.
 
