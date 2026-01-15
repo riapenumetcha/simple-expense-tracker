@@ -1,7 +1,7 @@
-Simple Expense Tracker
-Description
+# Simple Expense Tracker
+#### Video Demo:
 
-Starting off, a prompt appears asking users to type in how much they spent via the command line. That number they enter represents the price of a specific expense being tracked. After typing it in, the system verifies the input, rejecting any negative values or nothing at all. Without meeting that condition, a warning shows up. Quit to stop the program from proceeding.
+#### Description: Starting off, a prompt appears asking users to type in how much they spent via the command line. That number they enter represents the price of a specific expense being tracked. After typing it in, the system verifies the input, rejecting any negative values or nothing at all. Without meeting that condition, a warning shows up. Quit to stop the program from proceeding.
 
 Starting with just a basic tool for logging costs, allowing users to track their spending in an organized manner. It aims to build a straightforward app working only in the command line, strengthening skills in Python by tackling actual daily challenges. Users can add cost entries, sort them into types, then see exactly how much they’ve spent so far.
 
